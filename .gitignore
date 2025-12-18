@@ -1,0 +1,12 @@
+__pycache__
+logs
+models
+temp_uploads
+.env
+rag_chabot.log
+data
+loggs
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md

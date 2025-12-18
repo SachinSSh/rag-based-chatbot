@@ -1,0 +1,146 @@
+2025-11-08 11:11:17,211 - __main__ - INFO - Setting up environment...
+2025-11-08 11:11:17,213 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:11:17,213 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:11:17,214 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:11:17,216 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:11:17,217 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:11:17,217 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:11:17,217 - __main__ - INFO - Environment setup complete
+2025-11-08 11:11:17,217 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:12:10,788 - __main__ - INFO - Setting up environment...
+2025-11-08 11:12:10,788 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:12:10,789 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:12:10,790 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:12:10,790 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:12:10,790 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:12:10,790 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:12:10,790 - __main__ - INFO - Environment setup complete
+2025-11-08 11:12:10,790 - __main__ - INFO - Setup complete
+2025-11-08 11:14:17,075 - __main__ - INFO - Setting up environment...
+2025-11-08 11:14:17,083 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:14:17,088 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:14:17,091 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:14:17,091 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:14:17,099 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:14:17,124 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:14:17,131 - __main__ - INFO - Environment setup complete
+2025-11-08 11:14:17,142 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:14:17,179 - __main__ - ERROR - Failed to start Streamlit app: Runtime instance already exists!
+2025-11-08 11:14:40,308 - __main__ - INFO - Setting up environment...
+2025-11-08 11:14:40,308 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:14:40,330 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:14:40,340 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:14:40,340 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:14:40,344 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:14:40,361 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:14:40,365 - __main__ - INFO - Environment setup complete
+2025-11-08 11:14:40,365 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:14:40,388 - __main__ - ERROR - Failed to start Streamlit app: Runtime instance already exists!
+2025-11-08 11:15:50,555 - __main__ - INFO - Setting up environment...
+2025-11-08 11:15:50,558 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:15:50,559 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:15:50,561 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:15:50,562 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:15:50,562 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:15:50,562 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:15:50,562 - __main__ - INFO - Environment setup complete
+2025-11-08 11:15:50,562 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:15:50,587 - __main__ - ERROR - Failed to start Streamlit app: Runtime instance already exists!
+2025-11-08 11:15:51,581 - __main__ - INFO - Setting up environment...
+2025-11-08 11:15:51,581 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:15:51,581 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:15:51,585 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:15:51,585 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:15:51,586 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:15:51,586 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:15:51,586 - __main__ - INFO - Environment setup complete
+2025-11-08 11:15:51,586 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:15:51,594 - __main__ - ERROR - Failed to start Streamlit app: Runtime instance already exists!
+2025-11-08 11:17:54,985 - __main__ - INFO - Setting up environment...
+2025-11-08 11:17:54,985 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:17:54,993 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:17:54,993 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:17:54,993 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:17:54,993 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:17:54,993 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:17:54,993 - __main__ - INFO - Environment setup complete
+2025-11-08 11:17:54,993 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:19:32,245 - __main__ - INFO - Setting up environment...
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./data
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./data/chromadb
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./data/faiss_index
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./models
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./temp_uploads
+2025-11-08 11:19:32,245 - __main__ - INFO - Created/verified directory: ./logs
+2025-11-08 11:19:32,245 - __main__ - INFO - Environment setup complete
+2025-11-08 11:19:32,245 - __main__ - INFO - Starting Streamlit application...
+2025-11-08 11:32:01,568 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:32:01,629 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:32:01,629 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:32:01,666 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:32:07,574 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:32:07,574 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:32:07,574 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:32:08,289 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:32:08,308 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:36:11,899 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:36:11,912 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:36:11,913 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:36:11,922 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:36:15,340 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:36:15,340 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:36:15,348 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:36:15,476 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:36:15,512 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:39:50,426 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:39:50,442 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:39:50,442 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:39:50,442 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:39:53,340 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:39:53,340 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:39:53,340 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:39:53,487 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:39:53,506 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:46:49,664 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:46:49,673 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:46:49,678 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:46:49,678 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:46:52,558 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:46:52,558 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:46:52,558 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:46:52,698 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:46:52,703 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:49:46,850 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:49:46,859 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:49:46,867 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:49:46,873 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:49:50,357 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:49:50,357 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:49:50,357 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:49:50,547 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:49:50,569 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:53:52,057 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:53:52,057 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:53:52,073 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:53:52,073 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:53:54,914 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:53:54,923 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:53:54,923 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:53:55,112 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:53:55,139 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-08 11:59:17,123 - datasets - INFO - PyTorch version 2.5.1 available.
+2025-11-08 11:59:17,123 - datasets - INFO - Polars version 1.31.0 available.
+2025-11-08 11:59:17,137 - datasets - INFO - Disabling Tensorflow because USE_TORCH is set
+2025-11-08 11:59:17,137 - datasets - INFO - JAX version 0.4.35 available.
+2025-11-08 11:59:19,866 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-11-08 11:59:19,866 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-11-08 11:59:19,866 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-08 11:59:20,011 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-08 11:59:20,023 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
