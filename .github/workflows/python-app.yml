@@ -22,11 +22,12 @@ jobs:
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
-        python-version: "3.12"
+        python-version: "3.10"
     
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install setuptools wheel
         pip install streamlit
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     
@@ -38,4 +39,4 @@ jobs:
     - name: Test Streamlit app runs
       run: |
         # Start Streamlit in headless mode and check if it runs without errors
-        timeout 30s streamlit run streamlit_app.py --server.headless=true --server.port=8501 || code=$?; if [ $code -eq 124 ]; then echo "Streamlit app started successfully"; exit 0; else exit $code; fi
+        timeout 30s streamlit run main.py --server.headless=true --server.port=8501 || code=$?; if [ $code -eq 124 ]; then echo "Streamlit app started successfully"; exit 0; else exit $code; fi
